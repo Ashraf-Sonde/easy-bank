@@ -1,2 +1,2 @@
-# easy-bank
+## Easy-Bank
 Easy bank Landing page
