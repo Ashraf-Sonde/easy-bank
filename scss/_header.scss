@@ -116,16 +116,6 @@
             }
         }
     }
-
-    &__cta {
-        font-size: $font-sm;
-        color: $white;
-        transition: opacity .3s ease-in;
-
-        &:hover {
-            opacity: 0.75;
-        }
-    }
 }
 
 
