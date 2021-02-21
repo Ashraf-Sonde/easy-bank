@@ -8,7 +8,6 @@ const fadeElems = document.querySelectorAll('.has-fade');
 
 btnHamburger.addEventListener('click', function() {
     body.classList.remove('noscroll');
-    console.log('hambuger menu');
 
     if(header.classList.contains('open')) { // close ham-menu
         header.classList.remove('open');
